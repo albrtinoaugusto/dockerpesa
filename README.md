@@ -1,4 +1,4 @@
-# Dockerpesa
+# DockerPesa
 DockerPesa is an M-Pesa C2B API image for docker, You dont need any SDK or programming language, 
 all you need is two minutes deploy it 
 
